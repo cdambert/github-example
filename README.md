@@ -1,2 +1,2 @@
-# github-example
-example for IBM Data Science Professional Certificate
+# Capstone Project
+This notebook will be mainly for the IBM Data Science Certification Capstone Project
