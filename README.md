@@ -1,2 +1,2 @@
 # Capstone Project
-This notebook will be mainly for the IBM Data Science Certification Capstone Project
+This github is for my project for IBM Data Science Professional Certifications
